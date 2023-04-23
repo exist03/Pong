@@ -1,2 +1,2 @@
 all:
-	gcc -lcurses pong.c -o Pong
+	gcc bonus_pong.c -o Pong -lncurses
